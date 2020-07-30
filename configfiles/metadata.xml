@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entities>
+    <ExtensionPackages>
+        <ExtensionPackage dependsOn="" description="" minimumThingWorxVersion="8.2.0" name="Thingworx" packageVersion="1.0.0" vendor=""> 
+        </ExtensionPackage>
+    </ExtensionPackages>
+</Entities>
